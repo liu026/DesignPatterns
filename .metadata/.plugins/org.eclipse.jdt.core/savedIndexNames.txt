@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+/Users/liupai/Documents/CS5800 DesignPatterns/.metadata/.plugins/org.eclipse.jdt.core
+1551014036.index
+3102711368.index
+2960522080.index
+2231755529.index
+4069869348.index

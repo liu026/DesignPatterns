@@ -1,0 +1,6 @@
+
+public class Quality {
+	public void RubyQuality() {
+		System.out.println("Ruby Quality");
+	}
+}
